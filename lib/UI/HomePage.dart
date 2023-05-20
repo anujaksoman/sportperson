@@ -161,7 +161,8 @@ class _HomePagedetailsState extends State<HomePagedetails> {
                                 SizedBox(height: 20,),
                                 Text('Sat'),
                                 SizedBox(height: 30,),
-                                Center(child: Text('20-05-2023'))
+                                Center(
+                                    child: Text('20-05-2023'))
                               ],
                             ),
 
